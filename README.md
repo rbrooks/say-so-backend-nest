@@ -1,6 +1,6 @@
-# NestJS Microservoice: Skeletal blogging platform
+# SaySo Backend: NestJS
 
-Hobby project to learn the Nest Node.js framework and TypeORM.
+Hobby project to learn the NestJS Node.js framework and TypeORM.
 
 ## Installation
 
