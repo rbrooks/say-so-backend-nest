@@ -1,6 +1,6 @@
 # SaySo Backend: NestJS
 
-Hobby project to learn the NestJS Node.js framework and TypeORM.
+Hobby project to learn the [NestJS](https://nestjs.com/) Node.js framework and TypeORM.
 
 ## Installation
 
