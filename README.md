@@ -76,9 +76,9 @@ REST API should now be acessable over HTTP at `http://localhost:3000/api/article
 
 Swagger API Docs are browseable at: http://localhost:3000/docs/
 
-![api-say-so-blog](https://user-images.githubusercontent.com/214047/84197947-c9632b00-aa70-11ea-8488-31856c83e7f0.png)
-
 ![api-say-so-blog2](https://user-images.githubusercontent.com/214047/84197948-c9fbc180-aa70-11ea-94d0-8cf40ce19b44.png)
+
+![api-say-so-blog](https://user-images.githubusercontent.com/214047/84197947-c9632b00-aa70-11ea-8488-31856c83e7f0.png)
 
 ## Authentication
 
