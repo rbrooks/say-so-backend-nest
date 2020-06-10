@@ -63,7 +63,7 @@ It should create DB tables. You may have to create the DB manaually first.
 CREATE DATABASE sayso;
 ```
 
-REST API should now be acessable over HTTP at `http://localhost:3000/api/articles`
+REST API should now be accessible over HTTP at `http://localhost:3000/api/articles`
 
 ## Scripts
 
